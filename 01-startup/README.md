@@ -57,4 +57,4 @@ var y int = 42   // 完整写法（很少用）
 
 - [x] 安装 Go
 - [x] 跑通 Hello World
-- [ ] 看完官方 Tour of Go 基础部分
+- [x] 看完官方 Tour of Go 基础部分
