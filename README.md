@@ -35,3 +35,11 @@
 - 主力语言：Java（8 + Spring Boot + MyBatis-Plus）
 - 工作领域：云平台运维（K8s）、呼叫中心后端（事件驱动架构）
 - 目标：7 年内回邯郸远程工作，Go 是第二技能栈
+
+---
+
+📬 **关于我 / 更多内容**
+
+- 📝 博客：[干货·工程化复盘](https://ganhuo.dev) — 生产环境事故复盘与工程化实战
+- 💬 掘金：[申延彬的技术文章](https://juejin.cn/user/920709300225227/posts)
+- 🧑‍💼 知乎：[申延彬的知乎主页](https://www.zhihu.com/people/shen-bin-88-64/posts)
